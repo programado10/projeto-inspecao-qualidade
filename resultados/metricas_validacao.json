@@ -1,0 +1,21 @@
+{
+  "quantidade_validacao": 260,
+  "loss": 0.44829434156417847,
+  "accuracy": 0.8038461538461539,
+  "recall_defeito": 0.7453416149068323,
+  "precisao_defeito": 0.9230769230769231,
+  "matriz_confusao": [
+    [
+      120,
+      41
+    ],
+    [
+      10,
+      89
+    ]
+  ],
+  "ordem_classes": [
+    "def_front",
+    "ok_front"
+  ]
+}

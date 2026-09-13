@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "def_front",
+    "ok_front"
+  ],
+  "image_size": [
+    128,
+    128
+  ],
+  "seed": 123,
+  "validation_split": 0.2,
+  "limiar": 0.5,
+  "saida_sigmoid": "P(OK) estimada pelo modelo",
+  "entrada": "RGB na escala [0, 255]; normalização incluída no modelo",
+  "epoca_modelo_salvo": 11,
+  "tensorflow": "2.21.0"
+}
