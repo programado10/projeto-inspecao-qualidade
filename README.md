@@ -3,7 +3,7 @@
 **Curso:** Machine Learning e Visão Computacional [T1]  
 **Atividade:** Mini-Projeto Avaliativo - Módulo 2 - Semana 07  
 **Estudante:**  Miguel Magro
-**Vídeo de apresentação:**[ PREENCHER COM O LINK DO GOOGLE DRIVE  ](https://drive.google.com/file/d/1M_Ip14ZTXtuJNAtI9jxwpXRswTth8-Ie/view?usp=sharing)
+**Vídeo de apresentação:**[ link google drive video](https://drive.google.com/file/d/1M_Ip14ZTXtuJNAtI9jxwpXRswTth8-Ie/view?usp=sharing)
 **Repositório GitHub:** [programado10/projeto-inspecao-qualidade](https://github.com/programado10/projeto-inspecao-qualidade)
 
 ## Objetivo do projeto
